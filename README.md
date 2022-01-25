@@ -44,7 +44,7 @@ I wrote a decision statement with a logical operator to get who got the most vot
 
 ![winning_candidate_votes_code](https://github.com/msjj622/Election_Analysis/blob/main/Images/winning_candidate_votes_code.png)
 
-##Election-Audit Summary: 
+## Election-Audit Summary: 
 The first example I could use with this script to show the result of election for a president or minister of one of countries and show the winning story of which states and regions got the most votes out of total votes. It could also give some ideas to people which states apt to have what political aspects.
 
 Another example I could use is to show a story of winning senator. senator is also elected by votes. now it could be narrow the regions. but thie result could give some ideas of which areas in town are positively willing to participate voting for a senator.
