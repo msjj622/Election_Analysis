@@ -5,7 +5,7 @@ The purpose of this election analysis is to gather additional data from original
 
 ## Election-Audit Results:
 - How many votes were cast in this congressional election? 
-369,711 votes. I added to the total vote count (initial value) with this code.
+\n 369,711 votes. I added to the total vote count (initial value) with this code.
 ![total_votes_code](https://github.com/msjj622/Election_Analysis/blob/main/Images/total_votes_code.png)
 
 Once you put this code, you will see this print text as image below.
