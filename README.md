@@ -1,6 +1,6 @@
 #  Analysis of the Election Audit
 ## Overview of Election Audit:
-The purpose of this election analysis is to gather additional data from original election audit result. The election commission has requested more data about the voter turnout for each county, the percentage of votes from each county out of the total count, The county with the highest turnout as wwell as winner candidate with count of winning vote and percentage of the winning votes.
+The purpose of this election analysis is to gather additional data from original election audit result. The election commission has requested more data about the voter turnout for each county, the percentage of votes from each county out of the total count, The county with the highest turnout as well as winner candidate with count of winning vote and percentage of the winning votes.
 
 
 ## Election-Audit Results:
