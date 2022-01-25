@@ -1,9 +1,9 @@
 #  Analysis of the Election Audit
-## Overview of Election Audit: (Explain the purpose of this election audit analysis.)
+## Overview of Election Audit:
 The purpose of this election analysis is to gather additional data from original election audit result. The election commission has requested more data about the voter turnout for each county, the percentage of votes from each county out of the total count, The county with the highest turnout as wwell as winner candidate with count of winning vote and percentage of the winning votes.
 
 
-## Election-Audit Results: (Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.) 
+## Election-Audit Results:
 (There is a bulleted list where each election outcome is addressed)
 
 - How many votes were cast in this congressional election? 
@@ -50,12 +50,6 @@ I wrote a decision statement with a logical operator to get who got the most vot
 
 
 ##Election-Audit Summary: 
-(In a summary statement, provide a business proposal to the election commission on how this script can 
-be used—with some modifications—for any election. Give at least two examples of how this script can 
-be modified to be used for other elections.) 
-(There is a statement to the election commission that explores 
-how this script can be used for any election, with two examples for modifying the script.) 
-
 The first example I could use with this script to show the result of election for a president or minister of one of countries and show the winning story of which states and regions got the most votes out of total votes. It could also give some ideas to people which states apt to have what political aspects.
 
 Another example I could use is to show a story of winning senator. senator is also elected by votes. now it could be narrow the regions. but thie result could give some ideas of which areas in town are positively willing to participate voting for a senator.
