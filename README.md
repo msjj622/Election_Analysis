@@ -1,11 +1,9 @@
 #  Analysis of the Election Audit
 ## Overview of Election Audit:
-The purpose of this election analysis is to gather additional data from original election audit result. The election commission has requested more data about the voter turnout for each county, the percentage of votes from each county out of the total count, The county with the highest turnout as well as winner candidate with count of winning vote and percentage of the winning votes.
+The purpose of this election analysis is to gather additional data from original election audit result. The election commission has requested more data about the voter turnout and the percentage of votes from each county out of the total count. The county with the highest turnout as well as a winner candidate with vote count and percentage of the winning votes.
 
 
 ## Election-Audit Results:
-(There is a bulleted list where each election outcome is addressed)
-
 - How many votes were cast in this congressional election? 
 369,711 votes. I added to the total vote count (initial value) with this code.
 ![total_votes_code](https://github.com/msjj622/Election_Analysis/blob/main/Images/total_votes_code.png)
