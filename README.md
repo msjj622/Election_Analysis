@@ -5,30 +5,23 @@ The purpose of this election analysis is to gather additional data from original
 
 ## Election-Audit Results:
 - How many votes were cast in this congressional election? 
-369,711 votes. I added to the total vote count (initial value) with this code.
+369,711 votes. I added to the total vote count (initial value) with this code. Once you put this code, you will see this print text as image below.
 ![total_votes_code](https://github.com/msjj622/Election_Analysis/blob/main/Images/total_votes_code.png)
-
-Once you put this code, you will see this print text as image below.
-
 
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
   - Jefferson: 38,855 votes and 10.5%
   - Denver: 306,055 votes and 82.8%
   - Arapahoe: 24,801 votes and 6.7%
 
-I created f-string and dictionary first and used 'for' loops and conditional statements to print the requested results. I printed county name to print each row and wrote an 'if' statement that checks that the county does not match any existing county in the county list then add the existing county to the list of counties by using 'append' and tracked the each county's vote count with using strings and dictionary I created at the first step and put '0' values. lastly, add a vote to that county's vote count with same as strings and dictionary with a value of '+= 1'.
+I created f-string and dictionary first and used 'for' loops and conditional statements to print the requested results. I printed county name to print each row and wrote an 'if' statement that checks that the county does not match any existing county in the county list then add the existing county to the list of counties by using 'append' and tracked the each county's vote count with using strings and dictionary I created at the first step and put '0' values. lastly, add a vote to that county's vote count with same as strings and dictionary with a value of '+= 1'. Once you put this code, you will see this print text as image below.
 ![county_list_votes_code](https://github.com/msjj622/Election_Analysis/blob/main/Images/county_list_votes_code.png)
 ![county_votes_percentage_code](https://github.com/msjj622/Election_Analysis/blob/main/Images/county_votes_percentage_code.png)
 
-Once you put this code, you will see this print text as image below.
-
-
 - Which county had the largest number of votes?
-Denver
+Denver.
 
 I wrote a decision statement with a logical operator to get which county got the most votes.
 ![largest_county_votes_code](https://github.com/msjj622/Election_Analysis/blob/main/Images/largest_county_votes_code.png)
-
 
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
   - Charles Casper Stockham: 85,213 votes and 23.0%
